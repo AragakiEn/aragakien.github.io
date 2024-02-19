@@ -8,7 +8,7 @@ redirect_from:
   - /bio.html
 ---
 
-I am a  PhD student in Finance at Fox School of Business, Temple University. My Resume can be found \[[here](../files/YuanHu_Resume.pdf){:target="_blank"}\].
+I am a  PhD student in Finance at Fox School of Business, Temple University. My resume can be found \[[here](../files/YuanHu_Resume.pdf){:target="_blank"}\].
 
 I am skilled in 
 **Econometrics**, 
@@ -26,7 +26,7 @@ Some specific areas of my research include
 and 
 (iii) the application of asset pricing methods in scenarios where the dataset is complex and contains a large number of variables. Overall, as Finance is about resolving uncertainties through scientific tools and data, my background naturally aligns with the goals of improving decision-making and evaluating policy impacts.
 
-I am currently on the job market, actively seeking opportunities where I can contribute through my quantitative skills and real-world research experience.
+I am currently on the job market, actively seeking opportunities where I can contribute through my quantitative skills and real-life research experience.
 
 
 
