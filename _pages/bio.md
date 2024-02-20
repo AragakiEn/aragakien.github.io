@@ -45,6 +45,14 @@ M.S. in Statistics   &nbsp;&nbsp;&nbsp; 2019
 **Huazhong University of Science and Technology**  
 Bachelor's degree in Financial Management  &nbsp;&nbsp;&nbsp; 2017
 
+News
+=========
+---
+2024/02/19: Updated paper ["Bundled Risks, Dollar Index Options, and Quantitative Implications for Dynamic Currency Models"](/research/) (Revise & Resubmit at *<u>Review of Financial Studies</u>*)
+
+
+
+
 
 References
 =========

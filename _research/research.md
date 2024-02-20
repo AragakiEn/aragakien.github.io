@@ -46,7 +46,7 @@ Working Papers in Finance
 </dl>
 
 <dl>
-<dt>3. Bundled Risks, Dollar Index Options, and Quantitative Implications for Dynamic Currency Models, <strong>Revise &amp; Resubmit at <em>Review of Financial Studies</em></strong></dt>
+<dt>3. Bundled Risks, Dollar Index Options, and Quantitative Implications for Dynamic Currency Models, <strong>Revise &amp; Resubmit at <em><u>Review of Financial Studies</u></em></strong></dt>
   <dd>
     (with Gurdip Bakshi and Xiaohui Gao)
     [<a href="/files/dollar index_10-12-2023.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
