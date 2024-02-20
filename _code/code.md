@@ -1,5 +1,5 @@
 ---
-permalink: /code/code/
+permalink: /code/
 title: ""
 excerpt: "code"
 author_profile: true

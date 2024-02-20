@@ -1,5 +1,5 @@
 ---
-permalink: /research/research/
+permalink: /research/
 collection: research
 title: ""
 excerpt: "research"
