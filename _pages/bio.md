@@ -20,11 +20,12 @@ and
 **Machine Learning**,
 supported by solid doctoral training and 5 years of research experience. In addition, I am proficient in large data analysis with the Python ecosystem.
 
-Some specific areas of my research include
+Some specific areas of my research include investigating
 (i) the additional insights provided by traded derivatives in commodities and international markets;
 (ii) the risks associated with various characteristic-based factors across a wide range of assets; 
 and 
-(iii) the application of asset pricing methods in scenarios where the dataset is complex and contains a large number of variables. Overall, as Finance is about resolving uncertainties through scientific tools and data, my background naturally aligns with the goals of improving decision-making and evaluating policy impacts.
+(iii) the application of asset pricing methods in scenarios where the dataset is complex and contains a large number of variables. 
+Overall, as Finance is about resolving uncertainties through scientific tools and data, my background naturally aligns with the goals of improving decision-making and evaluating policy impacts.
 
 I am currently on the job market, actively seeking opportunities where I can contribute through my quantitative skills and real-life research experience.
 
