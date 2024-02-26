@@ -77,7 +77,17 @@ Work in Progress
       </ul>
     </div>
   </dd>
+
+  <dt> 2. Image-based Sentiment Analysis </dt>
+  <dd>
+    <div style="display: inline-block; margin-left: 10px;">
+      <ul style="margin-top: 0;">
+        <!-- Add more sub-bullet points as needed -->
+      </ul>
+    </div>
+  </dd>
 </dl>
+
 
 
 
