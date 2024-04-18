@@ -8,7 +8,7 @@ redirect_from:
   - /bio.html
 ---
 
-I am a  PhD student in Finance at Fox School of Business, Temple University. My resume can be found \[[here](../files/YuanHu_Resume.pdf){:target="_blank"}\].
+I am a  PhD student in Finance at Fox School of Business, Temple University. <!-- My resume can be found \[[here](../files/YuanHu_Resume.pdf){:target="_blank"}\]. -->
 
 I am skilled in 
 **Econometrics**, 
